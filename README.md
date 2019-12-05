@@ -43,8 +43,8 @@ Motherboard firmware updates can be done with Cura in _Printer settings > Upload
 
 ## Issues
 
-- Random abnormal temperature error
-    <img src="./files/abnormalETemp.jpg" width=100/>
+- Random abnormal temperature error  
+    <img src="./files/abnormalETemp.jpg" width="600px"/>
 - Very noisy fans
 
 ## Resources
